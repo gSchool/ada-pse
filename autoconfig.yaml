@@ -18,3 +18,14 @@ Standards:
         Type: Lesson
         UID: 71d8142849851c1999d31842cddb2aa4
         Path: /00-about-pses/01-about-pses.md
+  -
+    Title: Pse 01
+    Description: Pse 01
+    UID: 0a601cc26210e6eed0bd55f8a843ca8f
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Checkpoint
+        UID: 10ddabe050188bf867ffe5c5ccb689ae
+        Path: /01-pse-01/01-wk-02-pse-checkpoint.md
