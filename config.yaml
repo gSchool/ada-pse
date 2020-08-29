@@ -9,7 +9,7 @@
 Standards:
   -
     Title: About Pses
-    Description: About Pses
+    Description: Ada's Problem Solving Exercises
     UID: de695bcc40c90003ead81729ffd35342
     SuccessCriteria:
       - success criteria
@@ -20,7 +20,7 @@ Standards:
         Path: /00-about-pses/01-about-pses.md
   -
     Title: Pse 01
-    Description: Pse 01
+    Description: The first Ada PSE
     UID: 0a601cc26210e6eed0bd55f8a843ca8f
     SuccessCriteria:
       - success criteria
