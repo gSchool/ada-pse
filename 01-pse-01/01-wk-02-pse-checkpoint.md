@@ -63,7 +63,7 @@ List 2 sets of example inputs and their expected output
 
 ##### !placeholder
 
-[text, placeholder text for input field]
+Two sets of inputs.
 
 ##### !end-placeholder
 
