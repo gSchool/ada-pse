@@ -14,7 +14,7 @@ For the first week of PSEs, instructors should cover:
 
 ## Overview
 
-In general, at the end of every week, instructors will give out two activities: one problem-solving exercise (PSE), and one online assessment through our LMS (at the time of writing this, Schoology).
+In general, at the end of every week, instructors will give out two activities: one problem-solving exercise (PSE), and one online assessment through our LMS Learn.
 
 The problem-solving exercise will have a time-boxed exercise. The exercises will touch on problem-solving skills on coding problems we've seen in the past.
 
