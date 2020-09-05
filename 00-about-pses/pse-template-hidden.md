@@ -7,10 +7,10 @@ Imagine working on software that `<TEMPLATE: has some specific kind of purpose a
 ## Answer the following prompts:
 
 1. List at least 5 questions whose answers would clarify the problem statement
-2. List 2 sets of example inputs (method parameters) and their expected output (method return values)
-3. Divide the project prompt into at least 2 different sub-problems
-4. Pick one of those problems from #3 and write a numbered list explaining how to solve that problem without using full lines of code
-5. Write down on paper a solution for your answer in #4 in code
+1. List 2 sets of example inputs (method parameters) and their expected output (method return values)
+1. Divide the project prompt into at least 2 different sub-problems
+1. Pick one of those problems from #3 and write a numbered list explaining how to solve that problem without using full lines of code
+1. Write down on paper a solution for your answer in #4 in code
 
 ## Reminders
 
