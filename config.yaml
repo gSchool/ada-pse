@@ -29,3 +29,14 @@ Standards:
         Type: Checkpoint
         UID: 10ddabe050188bf867ffe5c5ccb689ae
         Path: /01-pse-01/01-wk-02-pse-checkpoint.md
+  -
+    Title: Pse 02
+    Description: The second problem solving exercise
+    UID: 43f37536-7fe3-4a01-8832-9bad151b2d7f
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Checkpoint
+        UID: 5e834674-1c56-48f8-ae3d-ef598f3d79a7
+        Path: /02-pse-02/pse-2-checkpoint.md
