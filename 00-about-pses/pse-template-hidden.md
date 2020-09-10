@@ -1,4 +1,4 @@
-# Week X: Problem Name
+# PSE X: Problem Name
 
 ## Given this problem prompt:
 
