@@ -6,54 +6,184 @@ Imagine working on software that `<TEMPLATE: has some specific kind of purpose a
 
 ## Answer the following prompts:
 
-1. List at least 5 questions whose answers would clarify the problem statement
-1. List 2 sets of example inputs (method parameters) and their expected output (method return values)
-1. Divide the project prompt into at least 2 different sub-problems
-1. Pick one of those problems from #3 and write a numbered list explaining how to solve that problem without using full lines of code
-1. Write down on paper a solution for your answer in #4 in code
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
-## Reminders
+### !challenge
 
-- You must write your name on your PSE.
-- Finish this on paper individually.
-- The instructor will collect this at the beginning of the next lesson.
-- If you'd like a full list of our tips, hints, and notes, please bring up the document ["About Problem Solving Exercises" in the textbook curriculum](https://github.com/Ada-Developers-Academy/textbook-curriculum/blob/master/00-programming-fundamentals/about-problem-solving-exercises.md).
+* type: paragraph
+* id: <TEMPLATE>
+* title: Asking Clarifying Questions
+* points: 1
+* topics: pse
 
----
+##### !question
 
-### How to Give Feedback on this PSE
+List at least 5 questions whose answers would clarify the problem statement
 
-#### Reviewing #1 (list at least 5 questions):
+##### !end-question
 
-No. 1 is used to stretch minds. It should feel like a lot of questions, and it should be really hard! Most questions are still valid even if these questions challenge very basic assumptions, like "is this a running Ruby script?" or "is this on a computer?"
+##### !placeholder
 
-- The answer is wrong if there aren't at least 5 questions
-- The answer is wrong if there were no questions clarifying `<TEMPLATE: FILL THIS OUT. What is a subject that they should DEFINITELY clarify?>`
+Your questions go here
 
-#### Reviewing #2 (2 example input/output):
+##### !end-placeholder
 
-- The answer is wrong if there aren't 2 examples
-- The answer is wrong if either of them aren't valid/consistent with each other
-- The answer is wrong if the example inputs were not `<TEMPLATE: FILL THIS OUT if the problem statement specifies a data type and structure of the input>`
-- The answer is wrong if the example outputs were not `<TEMPLATE: FILL THIS OUT if the problem statement specifies a data type and structure of the output>`
+<!-- other optional sections -->
+##### !hint
 
-#### Reviewing #3 (2 sub-problems):
+It's always a good idea to clarify what the method will take as input and what kind of output is expected.
 
-- The answer is wrong if there aren't at least 2 sub-problems listed
-- The answer is wrong if any of the sub-problems aren't relevant to the original problem
+##### !end-hint
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
-#### Reviewing #4 (List of steps to solve one sub-problem):
+### !end-challenge
 
-- The answer is wrong if it doesn't have at least two steps
-- The answer is wrong if it doesn't make sense
+<!-- ======================= END CHALLENGE ======================= -->
 
-#### Reviewing #5 (Code for solving one sub-problem):
+2. List 2 sets of example inputs and their expected return values.
 
-The point of this exercise is not fully check if the code is correct at the moment, but to let them practice writing code with their hands.
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
-- The answer is wrong if it is blank
-- The answer is wrong if it is obviously incorrect code (ie you wrote `puts "Oops!"` for your entire response)
+### !challenge
 
-## Resources 
+* type: paragraph
+* id: <TEMPLATE>
+* title: Example inputs & Outputs
+* points: 1
+* topics: pse
 
-<!-- A place to add sources of content etc -->
+##### !question
+
+List 2 sets of example inputs and their expected return values
+
+##### !end-question
+
+##### !placeholder
+
+Two sets of inputs.
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+##### !hint
+
+Consider edge-cases 
+
+##### !end-hint
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+##### !explanation 
+
+<TEMPLATE EXPLANATION>
+
+##### !end-explanation
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: <TEMPLATE>
+* title: 2 Different Subproblems
+* points: 1
+* topics: pse
+
+##### !question
+
+Divide the project prompt into at least 2 different sub-problems
+
+##### !end-question
+
+##### !placeholder
+
+2 subproblems
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+##### !hint
+
+Are there any checks of input you need to do?  Are there any calculations?
+
+##### !end-hint
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+##### !explanation
+
+<TEMPLATE EXPLANATION>
+
+##### !end-explanation
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: <TEMPLATE>
+* title: Logical Steps
+* points: 1
+* topics: pse
+
+##### !question
+
+Pick one of those problems from above and write a numbered list explaining how to solve that problem without using full lines of code
+
+##### !end-question
+
+##### !placeholder
+
+Write english-steps here.
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: <TEMPLATE>
+* title: Subproblem Solution
+* points: 1
+* topics: pse
+
+##### !question
+
+Record a solution for your answer for the above subproblem in code
+
+##### !end-question
+
+##### !placeholder
+
+Put Ruby code here
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
