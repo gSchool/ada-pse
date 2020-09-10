@@ -30,7 +30,7 @@ Standards:
         UID: 10ddabe050188bf867ffe5c5ccb689ae
         Path: /01-pse-01/01-wk-02-pse-checkpoint.md
   -
-    Title: Pse 02
+    Title: PSE 02
     Description: The second problem solving exercise
     UID: 43f37536-7fe3-4a01-8832-9bad151b2d7f
     SuccessCriteria:
