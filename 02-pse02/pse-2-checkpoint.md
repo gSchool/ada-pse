@@ -117,9 +117,9 @@ Two subproblems
 
 Potential subproblems include:
 
-1.  Calculating Id numbers
+1.  Calculating id numbers
 1.  Converting an array of names into an array of hashes
-1.  Insuring Id numbers are nonsequential
+1.  Ensuring id numbers are not consecutive
 
 ##### !end-explanation
 
