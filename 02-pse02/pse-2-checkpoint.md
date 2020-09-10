@@ -38,9 +38,9 @@ Some sample clarifying questions could be:
 
 1.  Is there some pattern required for the student ids?
 1.  What key-value pairs should the hashes contain?
-1.  What to do if the array of names is empty?
-1.  Can ID numbers be negative?
-1.  Should Ids be Integers or can they be floats?
+1.  What should happen if the array of names is empty?
+1.  Can id numbers be negative?
+1.  Should ids be Integers or can they be floats?
 
 ##### !end-explanation
 
