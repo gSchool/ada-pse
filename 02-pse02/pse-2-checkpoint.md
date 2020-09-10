@@ -2,7 +2,7 @@
 
 ## Given this problem prompt:
 
-Imagine working on software that tracks students. Create a method that takes in an array of strings that represent student names. This method should output/return an array of hashes. Each hash should have the name of the student and a student id. The ids should **not** be consecutive numbers.
+Imagine working on software that tracks students. Create a method that takes in an array of strings that represent student names. This method should return an array of hashes. Each hash should have the name of the student and a student id. The ids should **not** be consecutive numbers.
 
 ## Answer the following prompts:
 
