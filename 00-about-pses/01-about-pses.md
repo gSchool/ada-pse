@@ -38,21 +38,21 @@ Our Weekly PSE schedule is currently scheduled as such:
 
 | Week | Notes                                                       | Feedback by                 |
 | ---- | ----------------------------------------------------------- | --------------------------- |
-| 1    | Introduce, give example, and give time to work on first one | Completion                  |
-| 2    | -                                                           | Instructor                  |
-| 3    | Return week 2 results. Given as a pair exercise             | Completion                  |
-| 4    | -                                                           | Completion or peer feedback |
-| 5    | -                                                           | Completion                  |
-| 6    | -                                                           | Instructor                  |
-| 7    | Return week 6 results                                       | Completion or peer feedback |
-| 8    | Break                                                       | -                           |
-| 9    | Only classroom content assessment                           | -                           |
-| 10   | Only problem-solving assessment                             | Instructor                  |
-| 11   | Return week 10 results. Given as a pair exercise            | Completion                  |
-| 12   | Instructors reach out to students about retake on week 14   | Completion                  |
+| 2    | Introduce, give example, and give time to work on first one | Completion                  |
+| 3    | -                                                           | Instructor                  |
+| 4    | Return week 2 results. Given as a pair exercise             | Completion                  |
+| 5    | -                                                           | Completion or peer feedback |
+| 6    | -                                                           | Completion                  |
+| 7    | -                                                           | Instructor                  |
+| 8    | Return week 6 results                                       | Completion or peer feedback |
+| 9    | Break                                                       | -                           |
+| 10    | Only classroom content assessment                           | -                           |
+| 11   | Only problem-solving assessment                             | Instructor                  |
+| 12   | Return week 10 results. Given as a pair exercise            | Completion                  |
 | 13   | Instructors reach out to students about retake on week 14   | Completion                  |
-| 14   | Retake                                                      | Instructor or Completion    |
+| 14   | Instructors reach out to students about retake on week 14   | Completion                  |
 | 15   | Retake                                                      | Instructor or Completion    |
+| 16   | Retake                                                      | Instructor or Completion    |
 
 ### About The Scheduled Retake
 
