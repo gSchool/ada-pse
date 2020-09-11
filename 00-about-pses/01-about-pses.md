@@ -30,6 +30,7 @@ These problem-solving exercises may feel weird, and often challenging. They exer
 
 These exercises will get easier and more familiar over time. There will be patterns in answers, repetition, and using similar techniques between different problems on different weeks. These exercises will become more smooth as problem-solving skills grow, more context with programming problems increases, and more tools, techniques, and experimentation happens.
 
+<!-- 
 ## Schedule
 
 Subject to change, we will give a PSE and an online assessment every week.
@@ -40,19 +41,20 @@ Our Weekly PSE schedule is currently scheduled as such:
 | ---- | ----------------------------------------------------------- | --------------------------- |
 | 2    | Introduce, give example, and give time to work on first one | Completion                  |
 | 3    | -                                                           | Instructor                  |
-| 4    | Return week 2 results. Given as a pair exercise             | Completion                  |
+| 4    | Return week 3 results. Given as a pair exercise             | Completion                  |
 | 5    | -                                                           | Completion or peer feedback |
 | 6    | -                                                           | Completion                  |
 | 7    | -                                                           | Instructor                  |
-| 8    | Return week 6 results                                       | Completion or peer feedback |
+| 8    | Return week 7 results                                       | Completion or peer feedback |
 | 9    | Break                                                       | -                           |
-| 10    | Only classroom content assessment                           | -                           |
-| 11   | Only problem-solving assessment                             | Instructor                  |
-| 12   | Return week 10 results. Given as a pair exercise            | Completion                  |
+| 10    | Only problem-solving assessment                         | Instructor                          |
+| 11   | Return week 10 results.  Only classroom content              | -                  |
+| 12   |  Given as a pair exercise            | Completion                  |
 | 13   | Instructors reach out to students about retake on week 14   | Completion                  |
 | 14   | Instructors reach out to students about retake on week 14   | Completion                  |
 | 15   | Retake                                                      | Instructor or Completion    |
 | 16   | Retake                                                      | Instructor or Completion    |
+-->
 
 ### About The Scheduled Retake
 
