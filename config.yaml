@@ -85,15 +85,24 @@ Standards:
         UID: f937f38d-b86d-4607-8203-b579e1f1689e
         Path: /06-pse/01-pse-06.checkpoint.md      
   -
+    Title: PSE 07
+    Description: Reshape a Matrix
+    UID: d3ddc88a-afbe-43c7-b1f1-8e7b98cecdc3
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Checkpoint          
+        UID: 6cfc6d12-7850-4236-be85-64d8a6259f07
+        Path: /07-pse/01-pse-07.checkpoint.md
+  -
     Title: PSE 08
     Description: Kth Missing Positive Number
     UID: 104de1dc-9c42-4da8-b94f-802c36bbbd6c
     SuccessCriteria:
       - success criteria
-    ContentFiles:
+    ContentFiles:    
       -
         Type: Checkpoint
         UID: 2b22f6b1-ca0c-4dc9-8913-b62ab2698fbe
         Path: /08-pse/01-pse-08.checkpoint.md
-
-      
