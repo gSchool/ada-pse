@@ -106,3 +106,15 @@ Standards:
         Type: Checkpoint
         UID: 2b22f6b1-ca0c-4dc9-8913-b62ab2698fbe
         Path: /08-pse/01-pse-08.checkpoint.md
+  -
+    Title: PSE 09
+    Description: Knapsack Problem
+    UID: 893115f8-70b1-419b-9326-9b4fb2c60f39
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:    
+      -
+        Type: Checkpoint
+        UID: 80c3108d-1015-4ecc-a7ae-226ff4c76eed
+        Path: /09-pse/01-pse-09.checkpoint.md
+      
